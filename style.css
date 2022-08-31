@@ -1,0 +1,38 @@
+.img {
+    width: 351px;
+    height: 113px;
+    margin: auto; 
+}
+#search {    
+    width: 89.8%;
+    margin: auto;
+    text-align: center;
+    background-color: #EEEEEE;
+}
+table {
+    width: 90%;
+    margin: auto;    
+    border-width: 10px;
+}
+.box1 {
+    background-color: #7EE5DA;
+    max-width: 30%;
+    text-align: center;
+    font-size: 15px;
+}
+.box2 {
+    background-color: #70CCC2;
+    text-align: center;
+    width: 225px;
+    font-size: 12px;
+}
+.box3 {
+    background-color: #62B3AA;
+    text-align: center;
+    width: 43%;
+    font-size: 12px;
+}
+#cpy {
+    text-align: center;
+    font-size: 13px;
+}
